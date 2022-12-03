@@ -1,0 +1,12 @@
+{
+    "domain": "K3C_tracker",
+    "name": "K3C_tracker",
+    "documentation": "",
+    "requirements": [
+    ],
+    "version": "1.0.0",
+    "dependencies": [],
+    "codeowners": [
+      "@tab"
+    ]
+  }
